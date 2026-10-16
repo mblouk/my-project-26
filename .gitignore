@@ -1,0 +1,10 @@
+.cache
+
+# Built files
+site
+
+# Temporary files
+tmp
+
+# macOS internals
+.DS_Store
