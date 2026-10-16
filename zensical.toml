@@ -13,7 +13,7 @@ site_name = "Documentation"
 nav = [
   { "Get started" = "index.md" },
   { "Markdown in 5min" = "markdown.md" },
-  { "Getting Started" = "getting-started.md" },
+  { "Get Started" = "get-started.md" },
 ]
 
 # extra_css = ["stylesheets/extra.css"]
