@@ -1,12 +1,12 @@
 [project]
-site_url = "https://www.example.com/"
-site_name = "Documentation"
+site_url = "https://mblouk.github.io/my-project-26/"
+site_name = "My Project 26"
 # site_description = "Your project description"
 # site_author = "Your name"
 
 # copyright = "Copyright &copy; 2026 Your name"
 
-# repo_url = "https://github.com/user/repo"
+repo_url = "https://github.com/mblouk/my-project-26"
 # repo_name = "user/repo"
 # edit_uri = "edit/main/docs/"
 
